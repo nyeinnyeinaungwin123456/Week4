@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/small_margin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/small_margin"
+        android:background="#FFFFFF">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/nav_header_height"
+            android:src="@drawable/joke2"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/small_margin"
+                android:layout_marginLeft="@dimen/small_margin"
+                android:text="@string/filesize"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/fab_margin"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/winzintitle"
+                android:textSize="@dimen/movie_title"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/winzinauthor"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/winzinprice"/>
+
+            <Button
+                android:layout_width="@dimen/nav_header_height"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/movie_title"
+                android:text="@string/buy"/>
+
+            <Button
+                android:layout_width="@dimen/nav_header_height"
+                android:layout_height="wrap_content"
+                android:text="@string/sample"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/summary"
+        android:layout_marginTop="@dimen/title_size"
+        android:textSize="@dimen/title_size"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/fab_margin"
+        android:maxLines="4"
+        android:ellipsize="end"
+        android:text="@string/detailsummary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/fab_margin"
+        android:text="@string/related"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/fab_margin"
+        android:text="@string/types"/>
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="@dimen/main_margin"
+            android:background="#FFFFFF"
+            android:layout_marginTop="@dimen/fab_margin"
+            android:scrollbars="horizontal">
+
+
+        <LinearLayout
+            android:layout_width="@dimen/medium_margin3"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/medium_margin"
+                android:layout_height="@dimen/picture_height"
+                android:src="@drawable/joke1"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/small_margin"
+                android:text="@string/book1name"/>
+
+        </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="@dimen/medium_margin3"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="@dimen/verysmall_margin">
+
+                <ImageView
+                    android:layout_width="@dimen/medium_margin"
+                    android:layout_height="@dimen/picture_height"
+                    android:src="@drawable/joke2" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:text="@string/book2name"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="@dimen/medium_margin3"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="@dimen/verysmall_margin">
+
+                <ImageView
+                    android:layout_width="@dimen/medium_margin"
+                    android:layout_height="@dimen/picture_height"
+                    android:src="@drawable/joke7"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:text="@string/book3name"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="@dimen/medium_margin3"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="@dimen/verysmall_margin">
+
+                <ImageView
+                    android:layout_width="@dimen/medium_margin"
+                    android:layout_height="@dimen/picture_height"
+                    android:src="@drawable/joke8"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:text="@string/book4name"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="@dimen/medium_margin3"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="@dimen/verysmall_margin">
+
+                <ImageView
+                    android:layout_width="@dimen/medium_margin"
+                    android:layout_height="@dimen/picture_height"
+                    android:src="@drawable/joke2"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:text="@string/book5name"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="@dimen/medium_margin3"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="@dimen/verysmall_margin">
+
+                <ImageView
+                    android:layout_width="@dimen/medium_margin"
+                    android:layout_height="@dimen/picture_height"
+                    android:src="@drawable/joke1"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:text="@string/book6name"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="@dimen/medium_margin3"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="@dimen/verysmall_margin">
+
+                <ImageView
+                    android:layout_width="@dimen/medium_margin"
+                    android:layout_height="@dimen/picture_height"
+                    android:src="@drawable/joke7"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:text="@string/book7name"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="@dimen/medium_margin3"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="@dimen/verysmall_margin">
+
+                <ImageView
+                    android:layout_width="@dimen/medium_margin"
+                    android:layout_height="@dimen/picture_height"
+                    android:src="@drawable/joke8"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:text="@string/book8name"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        </HorizontalScrollView>
+
+</LinearLayout>
+
+</ScrollView>

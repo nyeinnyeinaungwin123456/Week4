@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">PADC_Week4Exer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="navheadername"> Nyein Nyein Aung Win</string>
+    <string name="navheaderemail"> sometimes2009@gmail.com </string>
+
+    <string name="linkIn"> PADC - LinkIn </string>
+    <string name="jobSearch"> PADC - Job Search </string>
+    <string name="pulse"> PADC - Pulse </string>
+    <string name="cinema"> PADC - ရုပ္ရွင္ </string>
+    <string name="winzin"> PADC - ၀န္ဇင္း </string>
+
+    <string name="count1"> 27 </string>
+    <string name="view1"> Who\'s viewed your profile </string>
+    <string name="count2"> 0 </string>
+    <string name="view2"> Who\'s viewed your share </string>
+
+    <string name="strengthen"> Strengthen your profile </string>
+    <string name="skill"> Showcase what you know, add suggestion skills to your profile </string>
+
+    <string name="jobalert"> Create a job alert! </string>
+    <string name="covertitle"> Good Morning Nyein Nyein! \n Here are your top stories about the day. </string>
+
+    <string name="editorpick"> Editor\'s Pick \n </string>
+    <string name="time"> 3h </string>
+
+    <string name="title2"> China Has High-Performance Companies - It Just Need A Lot More Of Them. </string>
+    <string name="label"> Gordon Orr / 131 shares </string>
+
+    <string name="movietitle"> The Silence Of The Lambs </string>
+    <string name="details"> DETAILS </string>
+
+    <string name="storytitle"> STORY </string>
+    <string name="storydescription"> \nThe Silence of the Lambs was released on February 14, 1991, and grossed \$272.7 million worldwide against its \$19 million budget. It was only the third film, the other two being It Happened One Night and One Flew Over the Cuckoo\'s Nest, to win Academy Awards in all the top five categories: Best Picture, Best Actor, Best Actress, Best Director, and Adapted Screenplay. It is also the first (and so far only) Best Picture winner widely considered to be a horror film, and only the third such film to be nominated in the category, after The Exorcist in 1973 and Jaws in 1975.[4] The film is considered \"culturally, historically or aesthetically\" significant by the U.S. Library of Congress and was selected to be preserved in the National Film Registry in 2011.[5] A sequel titled Hannibal was released in 2001 with Hopkins reprising his role, followed by two prequels: Red Dragon (2002) and Hannibal Rising (2007). </string>
+    <string name="more"> \n Read More </string>
+    <string name="showing"> Now Showing In </string>
+
+    <string name="moviename"> Movie Planet </string>
+    <string name="movietownship"> Pyin Oo Lwin </string>
+    <string name="movietime"> 10:00 AM, 12:00 AM, 03:00 PM, 06:30 PM </string>
+
+    <string name="filesize"> 2.43 MB </string>
+    <string name="winzintitle"> ဘီလူး </string>
+    <string name="winzinauthor"> အၾကည္ေတာ္ </string>
+    <string name="winzinprice"> 2000 Kyats </string>
+    <string name="buy"> Buy </string>
+    <string name="sample"> Sample </string>
+    <string name="summary"> Summary </string>
+    <string name="detailsummary"> ဒုတိယကမၻာစစ္အျပီးစစ္အတြင္းမွာ အသိမ္းခံရတဲ့နိုင္ငံေတြေရာ အသိမ္းမခံရတဲ့နိုင္ငံေတြပါဒုတိယကမၻာစစ္ျကီးရဲ့ေနာက္တက္တြဲဆိုး
+                                    ကိ်ဴးကိုအလူးအလဲခံခဲ့ျကရပါတယ္။ ဒီအထဲမွာ အာရွကနိုင္ငံေတြလဲအပါအဝင္ေပါ့။ျမန္မာမွာလဲဗ္ုလ္ခ်ဳပ္ကြယ္လြန္အျပီးသူတလူငါတမင္းအာ
+                                    ဏာရွင္ေတြရဲ့ေခတ္တခုကိုက်ေရာက္လာခ်ိန္။ဒီလိုပဲအိမ္နီးခ်င္းတရုတ္နိုင္ငံမွာလဲျပည္တြင္းစစ္ျကီးစတင္လာခဲ့ပီး ထိုင္ဝမ္ တရုတ္ျပည္မျပည္
+                                    တြင္းစစ္ေတြအာဏာလုပြဲေတြစတင္လာခဲ့ပါပီ။ </string>
+    <string name="related"> Related Books </string>
+    <string name="types"> ဟာသစာအုပ္အမ်ဳိးအစားမ်ား </string>
+    <string name="book1name"> ဘီလူး </string>
+    <string name="book2name"> HORRIBLY FUNNY </string>
+    <string name="book3name"> ဒါကဒီလိုရွိတယ္ ဟိုဟာကဟိုလိုရွိတယ္ </string>
+    <string name="book4name"> အပ်ဳိစင္တို႔သိဖို႕ </string>
+    <string name="book5name"> အီၾကာေကြး </string>
+    <string name="book6name"> နတ္တို႕အေၾကာင္းစာေပ </string>
+    <string name="book7name">HORRID HENRY\'S </string>
+    <string name="book8name"> JOKE BOOKS </string>
+
+
+
+
+</resources>
